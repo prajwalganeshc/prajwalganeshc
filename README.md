@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Prajwal Ganesh C, an AIML undergraduate at BMSCE, Bangalore.  
 I love learning and growing step by step.
 
@@ -37,7 +37,7 @@ I love learning and growing step by step.
 
 ---
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
